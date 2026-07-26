@@ -1,0 +1,42 @@
+<head>
+   <h1>hello world</h1>
+<hr />
+   <h2>mayank this side.</h2>
+ <p>hello world i am mayank gokhe </p>
+ <p>today is 17 may and im just starting coading <br />
+    lets start </p>
+<ol>
+  <li>HTML</li>
+  <li>css</li>
+  <li>javascript</li>
+</ol>
+<hr />
+
+<ul>
+    <li>a</li>
+    <li>b</li>
+         <ol>
+             <li>d</li>
+             <li>e</li>	
+
+              <ul>
+                  <li>hello</li> 
+              </ul>
+              <li>f</li>
+          </ol>
+      <li>c</li>
+</ul> 
+<hr />
+<ol>
+<li><a href="https://www.google.com">google link
+</a></li>
+<li><a href="https://www.apple.com">appe web link</a></li>
+<li><a href="https://www.samsung.com">samsung </a></li>
+<li><a href="https://www.youtube.com">youtube </a></li>
+</ol>
+</ol>
+<hr />
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmuyyDifqwJnvtYXamhQO964csqrvKIvCNiy3fuzRd-Mv_60RGoo6nT-j&s=10" width="1050" height="600"/>
+<hr />   
+</head>
